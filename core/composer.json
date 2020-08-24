@@ -1,0 +1,13 @@
+{
+    "name": "kick/multi-xml-feed",
+    "type": "project",
+    "authors": [
+        {
+            "name": "kick",
+            "email": "kick00shneir@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
